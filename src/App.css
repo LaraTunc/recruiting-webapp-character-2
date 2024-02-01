@@ -30,6 +30,7 @@
   flex: 1 1 0;
   background-color: hsl(220deg 13% 13%);
   color: white;
+  padding: 0 24px;
 }
 
 .App-link {
@@ -43,4 +44,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+p {
+  margin: 4px;
 }
